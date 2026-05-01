@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "source": "syndication",
+    "screen_name": "Deltaone",
+    "fetched_at": "2026-05-01T19:19:44.484842+00:00",
+    "total_tweets": 4,
+    "app": "x-v2-collector",
+    "version": "0.1.0"
+  },
+  "tweets": [
+    {
+      "tweet_id": "519297842",
+      "author_username": "deltaone",
+      "author_id": "11385742",
+      "text": "Texting on my phone",
+      "created_at": "2007-12-20T23:17:12+00:00",
+      "engagement": {
+        "favorite_count": 39,
+        "reply_count": 53,
+        "retweet_count": 9,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/deltaone/status/519297842",
+        "conversation_id": "519297842",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "deltaone",
+          "screen_name": "deltaone",
+          "followers_count": 1839,
+          "verified": false,
+          "is_blue_verified": false
+        }
+      }
+    },
+    {
+      "tweet_id": "519107942",
+      "author_username": "deltaone",
+      "author_id": "11385742",
+      "text": "I'm partying",
+      "created_at": "2007-12-20T21:57:58+00:00",
+      "engagement": {
+        "favorite_count": 24,
+        "reply_count": 10,
+        "retweet_count": 12,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/deltaone/status/519107942",
+        "conversation_id": "519107942",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "deltaone",
+          "screen_name": "deltaone",
+          "followers_count": 1839,
+          "verified": false,
+          "is_blue_verified": false
+        }
+      }
+    },
+    {
+      "tweet_id": "519105192",
+      "author_username": "deltaone",
+      "author_id": "11385742",
+      "text": "I'm sleeping",
+      "created_at": "2007-12-20T21:56:46+00:00",
+      "engagement": {
+        "favorite_count": 23,
+        "reply_count": 7,
+        "retweet_count": 11,
+        "quote_count": 2
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/deltaone/status/519105192",
+        "conversation_id": "519105192",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "deltaone",
+          "screen_name": "deltaone",
+          "followers_count": 1839,
+          "verified": false,
+          "is_blue_verified": false
+        }
+      }
+    },
+    {
+      "tweet_id": "519096212",
+      "author_username": "deltaone",
+      "author_id": "11385742",
+      "text": "Eating",
+      "created_at": "2007-12-20T21:53:00+00:00",
+      "engagement": {
+        "favorite_count": 22,
+        "reply_count": 13,
+        "retweet_count": 10,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/deltaone/status/519096212",
+        "conversation_id": "519096212",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "deltaone",
+          "screen_name": "deltaone",
+          "followers_count": 1839,
+          "verified": false,
+          "is_blue_verified": false
+        }
+      }
+    }
+  ]
+}

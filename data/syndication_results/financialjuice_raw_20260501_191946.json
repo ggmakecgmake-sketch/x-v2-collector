@@ -1,0 +1,3042 @@
+{
+  "meta": {
+    "source": "syndication",
+    "screen_name": "financialjuice",
+    "fetched_at": "2026-05-01T19:19:46.211673+00:00",
+    "total_tweets": 101,
+    "app": "x-v2-collector",
+    "version": "0.1.0"
+  },
+  "tweets": [
+    {
+      "tweet_id": "2041204935799328776",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "Get our Tradingview Real-Time News Extension for Chrome and Firefox, now with:  \n\n✅Text headlines \n✅Voice squawk \n✅TickStrike orderflow \n✅ Calendar\n\nChrome &gt; https://t.co/kn9EY7vbrY\n\nFireFox &gt; https://t.co/VNvNnRobv0 https://t.co/xrO9b0zobi",
+      "created_at": "2026-04-06T17:22:35+00:00",
+      "engagement": {
+        "favorite_count": 240,
+        "reply_count": 12,
+        "retweet_count": 16,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/2041204935799328776",
+        "conversation_id": "2041204935799328776",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1616034287169536000",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "JP MORGAN CEO DIMON: OIL AND GAS WILL BE NECESSARY FOR THE NEXT 50 YEARS.",
+      "created_at": "2023-01-19T11:26:13+00:00",
+      "engagement": {
+        "favorite_count": 11370,
+        "reply_count": 478,
+        "retweet_count": 1359,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1616034287169536000",
+        "conversation_id": "1616034287169536000",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1547513456856801280",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "JAPAN'S PM KISHIDA ORDERS RESTART OF UP TO 9 NUCLEAR REACTORS.",
+      "created_at": "2022-07-14T09:28:54+00:00",
+      "engagement": {
+        "favorite_count": 9164,
+        "reply_count": 182,
+        "retweet_count": 1296,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1547513456856801280",
+        "conversation_id": "1547513456856801280",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1491264208973049861",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "RUSSIA WILL RECOGNISE CRYPTO ASSETS AS CURRENCIES - KOMMERSANT.",
+      "created_at": "2022-02-09T04:14:28+00:00",
+      "engagement": {
+        "favorite_count": 7386,
+        "reply_count": 208,
+        "retweet_count": 1111,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1491264208973049861",
+        "conversation_id": "1491264208973049861",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1655993877667381267",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "POLL:  54% OF AMERICANS OPPOSE RAISING FEDERAL DEBT CEILING; OPPOSITION STRONGER AMONG THOSE WITHOUT A COLLEGE DEGREE",
+      "created_at": "2023-05-09T17:51:21+00:00",
+      "engagement": {
+        "favorite_count": 6560,
+        "reply_count": 345,
+        "retweet_count": 387,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1655993877667381267",
+        "conversation_id": "1655993877667381267",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1599735857816240129",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "BANK OF INTERNATIONAL SETTLEMENTS: FOREIGN EXCHANGE SWAP POSITIONS POINT TO OVER $80 TRILLION OF HIDDEN US DOLLAR DEBT, REPORTED OFF-BALANCE SHEET.",
+      "created_at": "2022-12-05T12:02:04+00:00",
+      "engagement": {
+        "favorite_count": 6366,
+        "reply_count": 355,
+        "retweet_count": 1870,
+        "quote_count": 504
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1599735857816240129",
+        "conversation_id": "1599735857816240129",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1637560520873070593",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "US FEDERAL RESERVE: THE FED AND THE CENTRAL BANKS OF THE UNITED KINGDOM, CANADA, JAPAN, THE EUROPEAN CENTRAL BANK, AND SWITZERLAND ANNOUNCE A COORDINATED ACTION TO IMPROVE LIQUIDITY PROVISION THROUGH THE STANDING US DOLLAR LIQUIDITY SWAP LINES.",
+      "created_at": "2023-03-19T21:03:47+00:00",
+      "engagement": {
+        "favorite_count": 5619,
+        "reply_count": 503,
+        "retweet_count": 1586,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1637560520873070593",
+        "conversation_id": "1637560520873070593",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1520494989662646272",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "WARREN BUFFET: I WOULDN'T BUY ALL OF THE BITCOIN IN THE WORLD FOR $25.",
+      "created_at": "2022-04-30T20:07:09+00:00",
+      "engagement": {
+        "favorite_count": 5088,
+        "reply_count": 815,
+        "retweet_count": 564,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1520494989662646272",
+        "conversation_id": "1520494989662646272",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1580951721412820992",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "THE US TREASURY HAS ASKED MAJOR BANKS WHETHER IT SHOULD BUY BACK SOME US GOVERNMENT BONDS IN ORDER TO IMPROVE MARKET LIQUIDITY.",
+      "created_at": "2022-10-14T16:00:37+00:00",
+      "engagement": {
+        "favorite_count": 4837,
+        "reply_count": 538,
+        "retweet_count": 973,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1580951721412820992",
+        "conversation_id": "1580951721412820992",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1637552535568371713",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "PUTIN: I'M OPEN TO DIPLOMATIC RESOLUTION OF UKRAINE CONFLICT.",
+      "created_at": "2023-03-19T20:32:03+00:00",
+      "engagement": {
+        "favorite_count": 4759,
+        "reply_count": 253,
+        "retweet_count": 715,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1637552535568371713",
+        "conversation_id": "1637552535568371713",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1661429236387774475",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "TURKEY HAS ASKED BANKS TO BUY DOLLAR DEBT TO SUPPORT DEFAULT SWAPS.",
+      "created_at": "2023-05-24T17:49:32+00:00",
+      "engagement": {
+        "favorite_count": 4195,
+        "reply_count": 184,
+        "retweet_count": 1168,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1661429236387774475",
+        "conversation_id": "1661429236387774475",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1577364298430562316",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "SAUDI ARABIA AND RUSSIA ARE PLANNING DEEP OIL CUTS IN DEFIANCE OF THE UNITED STATES - FT.",
+      "created_at": "2022-10-04T18:25:29+00:00",
+      "engagement": {
+        "favorite_count": 4162,
+        "reply_count": 214,
+        "retweet_count": 783,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1577364298430562316",
+        "conversation_id": "1577364298430562316",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1585699741966344192",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "BLACKROCK ECONOMISTS ARE TELLING FINANCIAL ADVISERS THAT THE NEXT FED MEETING WILL INCLUDE \"PIVOT LANGUAGE\". - FOX BUSINESS REPORTER TWEETS",
+      "created_at": "2022-10-27T18:27:34+00:00",
+      "engagement": {
+        "favorite_count": 3797,
+        "reply_count": 246,
+        "retweet_count": 628,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1585699741966344192",
+        "conversation_id": "1585699741966344192",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1510979717024915464",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "UK'S FINANCE MINISTER SUNAK: IT IS MY AMBITION TO MAKE THE UK A GLOBAL HUB FOR CRYPTOASSET TECHNOLOGY.",
+      "created_at": "2022-04-04T13:56:51+00:00",
+      "engagement": {
+        "favorite_count": 3754,
+        "reply_count": 193,
+        "retweet_count": 674,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1510979717024915464",
+        "conversation_id": "1510979717024915464",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1583452019397824513",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "FRANCE’S PRESIDENT MACRON: EUROPE HAS MADE A HISTORIC ERROR IN CRITICAL INFRASTRUCTURE.",
+      "created_at": "2022-10-21T13:35:55+00:00",
+      "engagement": {
+        "favorite_count": 3699,
+        "reply_count": 230,
+        "retweet_count": 413,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1583452019397824513",
+        "conversation_id": "1583452019397824513",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1579347833911934978",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "UKRAINE’S PRESIDENT ZELENSKY'S OFFICE WAS DESTROYED BY A MISSILE STRIKE - UKRAINIAN MEDIA.",
+      "created_at": "2022-10-10T05:47:21+00:00",
+      "engagement": {
+        "favorite_count": 3539,
+        "reply_count": 235,
+        "retweet_count": 689,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1579347833911934978",
+        "conversation_id": "1579347833911934978",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1637198816112701441",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "⚠️ BREAKING: MIDSIZE US BANKS ASK FDIC TO INSURE ALL DEPOSITS FOR 2 YEARS.",
+      "created_at": "2023-03-18T21:06:30+00:00",
+      "engagement": {
+        "favorite_count": 3639,
+        "reply_count": 292,
+        "retweet_count": 867,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1637198816112701441",
+        "conversation_id": "1637198816112701441",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1592079370629382144",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "UKRAINE’S PRESIDENT ZELENSKY: WE ARE MOVING FORWARD AND WE ARE READY FOR PEACE, PEACE FOR ALL OUR COUNTRY.",
+      "created_at": "2022-11-14T08:57:56+00:00",
+      "engagement": {
+        "favorite_count": 3586,
+        "reply_count": 273,
+        "retweet_count": 388,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1592079370629382144",
+        "conversation_id": "1592079370629382144",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1580249928529346560",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "COMPANIES IN THE UNITED KINGDOM ARE BEING ASKED FOR LOANS FROM THEIR PENSION FUNDS.",
+      "created_at": "2022-10-12T17:31:57+00:00",
+      "engagement": {
+        "favorite_count": 3565,
+        "reply_count": 145,
+        "retweet_count": 696,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1580249928529346560",
+        "conversation_id": "1580249928529346560",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1628200862043496448",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "THE BANK OF JAPAN HAS ANNOUNCED AN EMERGENCY BOND-BUYING OPERATION.",
+      "created_at": "2023-02-22T01:11:50+00:00",
+      "engagement": {
+        "favorite_count": 3507,
+        "reply_count": 142,
+        "retweet_count": 607,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1628200862043496448",
+        "conversation_id": "1628200862043496448",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1566745661718110209",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "RUSSIA STOPS GAS SUPPLIES TO EUROPE UNTIL WESTERN SANCTIONS REMOVED - FT.",
+      "created_at": "2022-09-05T11:10:49+00:00",
+      "engagement": {
+        "favorite_count": 3433,
+        "reply_count": 171,
+        "retweet_count": 661,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1566745661718110209",
+        "conversation_id": "1566745661718110209",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1583446258743508992",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "FRANCE’S PRESIDENT MACRON: FRANCE HAS DECIDED TO WITHDRAW FROM THE ENERGY CHARTER TREATY.",
+      "created_at": "2022-10-21T13:13:01+00:00",
+      "engagement": {
+        "favorite_count": 3377,
+        "reply_count": 121,
+        "retweet_count": 727,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1583446258743508992",
+        "conversation_id": "1583446258743508992",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1615724043084201984",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "US JUSTICE DEPARTMENT: WE ARE ABOUT TO ANNOUNCE A GLOBAL CRYPTOCURRENCY ENFORCEMENT ACTION.",
+      "created_at": "2023-01-18T14:53:25+00:00",
+      "engagement": {
+        "favorite_count": 3270,
+        "reply_count": 435,
+        "retweet_count": 748,
+        "quote_count": 282
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1615724043084201984",
+        "conversation_id": "1615724043084201984",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1585469699495698432",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "CHINA’S PRESIDENT XI: CHINA IS WILLING TO COLLABORATE WITH THE US TO FIND A WAY TO GET ALONG AND BENEFIT EACH OTHER.",
+      "created_at": "2022-10-27T03:13:27+00:00",
+      "engagement": {
+        "favorite_count": 3246,
+        "reply_count": 243,
+        "retweet_count": 333,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1585469699495698432",
+        "conversation_id": "1585469699495698432",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1584486845726879744",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "JAPAN ECONOMY MINISTER YAMAGIWA: I HAVE HANDED IN RESIGNATION.",
+      "created_at": "2022-10-24T10:07:57+00:00",
+      "engagement": {
+        "favorite_count": 3122,
+        "reply_count": 95,
+        "retweet_count": 680,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1584486845726879744",
+        "conversation_id": "1584486845726879744",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1521906143739752448",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "IMF: THE ADOPTION OF BITCOIN IN A CENTRAL AFRICAN COUNTRY RAISES PROBLEMS.",
+      "created_at": "2022-05-04T17:34:34+00:00",
+      "engagement": {
+        "favorite_count": 3068,
+        "reply_count": 470,
+        "retweet_count": 304,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1521906143739752448",
+        "conversation_id": "1521906143739752448",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1555139894485438465",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "SAUDI ARABIA RAISES ALL OIL PRICES FOR THE US FOR SEPTEMBER.",
+      "created_at": "2022-08-04T10:33:38+00:00",
+      "engagement": {
+        "favorite_count": 2873,
+        "reply_count": 162,
+        "retweet_count": 573,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1555139894485438465",
+        "conversation_id": "1555139894485438465",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1587876607406080004",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "⚠️ BREAKING: FED'S POWELL: THE ULTIMATE LEVEL OF RATES WILL BE HIGHER THAN PREVIOUSLY EXPECTED.",
+      "created_at": "2022-11-02T18:37:39+00:00",
+      "engagement": {
+        "favorite_count": 2946,
+        "reply_count": 97,
+        "retweet_count": 538,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1587876607406080004",
+        "conversation_id": "1587876607406080004",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1458764689605808130",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "RUSSIAN PARLIAMENT TO MEET OVER LEGALIZING CRYPTO ASSETS.",
+      "created_at": "2021-11-11T11:52:59+00:00",
+      "engagement": {
+        "favorite_count": 2942,
+        "reply_count": 92,
+        "retweet_count": 448,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1458764689605808130",
+        "conversation_id": "1458764689605808130",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1578303819175395328",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "THE ECB IS CONCERNED ABOUT A POTENTIAL WAVE OF DEFAULTS ON BANKS.",
+      "created_at": "2022-10-07T08:38:48+00:00",
+      "engagement": {
+        "favorite_count": 2916,
+        "reply_count": 146,
+        "retweet_count": 655,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1578303819175395328",
+        "conversation_id": "1578303819175395328",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1566083852354871302",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "GERMAN GREENS TO STOP OPPOSING THE EXPANSION OF NUCLEAR POWER - BILD.",
+      "created_at": "2022-09-03T15:21:01+00:00",
+      "engagement": {
+        "favorite_count": 2969,
+        "reply_count": 117,
+        "retweet_count": 421,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1566083852354871302",
+        "conversation_id": "1566083852354871302",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1582065941461901312",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "CREDIT SUISSE IS SAID TO BE STARTING THE SALE OF ITS US ASSET MANAGEMENT ARM.",
+      "created_at": "2022-10-17T17:48:08+00:00",
+      "engagement": {
+        "favorite_count": 2866,
+        "reply_count": 143,
+        "retweet_count": 526,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1582065941461901312",
+        "conversation_id": "1582065941461901312",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1885435310999224583",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "TRUMP: I'M NOT CONCERNED ABOUT MARKET REACTIONS TO TARIFFS.",
+      "created_at": "2025-01-31T21:09:42+00:00",
+      "engagement": {
+        "favorite_count": 2952,
+        "reply_count": 126,
+        "retweet_count": 310,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1885435310999224583",
+        "conversation_id": "1885435310999224583",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1585678739656130560",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "PUTIN: TAIWAN IS A PART OF CHINA.",
+      "created_at": "2022-10-27T17:04:06+00:00",
+      "engagement": {
+        "favorite_count": 2738,
+        "reply_count": 192,
+        "retweet_count": 437,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1585678739656130560",
+        "conversation_id": "1585678739656130560",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1579906514197762048",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "⚠️ BREAKING: BOE GOV. BAILEY: MY MESSAGE TO PENSION FUNDS IS THAT YOU ONLY HAVE THREE DAYS TO GET THIS DONE.",
+      "created_at": "2022-10-11T18:47:20+00:00",
+      "engagement": {
+        "favorite_count": 2725,
+        "reply_count": 150,
+        "retweet_count": 458,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1579906514197762048",
+        "conversation_id": "1579906514197762048",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1636139189614915585",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "THE BANK OF ENGLAND IS HOLDING EMERGENCY TALKS AS THE CREDIT SUISSE CRISIS WORSENS - THE TELEGRAPH.",
+      "created_at": "2023-03-15T22:55:55+00:00",
+      "engagement": {
+        "favorite_count": 2694,
+        "reply_count": 101,
+        "retweet_count": 746,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1636139189614915585",
+        "conversation_id": "1636139189614915585",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1565687948884037633",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "FRENCH ENERGY MINISTER: THE EDF PLANS TO RESTART ALL NUCLEAR REACTORS BY THE WINTER.",
+      "created_at": "2022-09-02T13:07:50+00:00",
+      "engagement": {
+        "favorite_count": 2729,
+        "reply_count": 63,
+        "retweet_count": 465,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1565687948884037633",
+        "conversation_id": "1565687948884037633",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1584540838805340162",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "US JUSTICE DEPARTMENT: MERRICK B. GARLAND, ATTORNEY GENERAL OF THE UNITED STATES, AND SENIOR JUSTICE DEPARTMENT OFFICIALS WILL HOLD A PRESS CONFERENCE ON A SIGNIFICANT NATIONAL SECURITY MATTER. THE PRESS CONFERENCE WILL BE AT 1:30 P.M. ET.",
+      "created_at": "2022-10-24T13:42:29+00:00",
+      "engagement": {
+        "favorite_count": 2596,
+        "reply_count": 285,
+        "retweet_count": 508,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1584540838805340162",
+        "conversation_id": "1584540838805340162",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1574586334836047903",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "FINANCIAL INSTITUTIONS ARE BEING ASKED BY REGULATORS TO AVOID TRADING ACTIVITY THAT MAY CREATE LARGE VOLATILITY IN THE SECURITIES MARKET - SOURCES.",
+      "created_at": "2022-09-27T02:26:51+00:00",
+      "engagement": {
+        "favorite_count": 2519,
+        "reply_count": 200,
+        "retweet_count": 487,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1574586334836047903",
+        "conversation_id": "1574586334836047903",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1587478563044954115",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "SAUDI ARABIA AND THE US ARE ON HIGH ALERT AFTER WARNING OF IMMINENT IRANIAN ATTACK - WSJ.",
+      "created_at": "2022-11-01T16:15:58+00:00",
+      "engagement": {
+        "favorite_count": 2454,
+        "reply_count": 195,
+        "retweet_count": 475,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1587478563044954115",
+        "conversation_id": "1587478563044954115",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1577225337418792961",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "SHELL CEO: EUROPE IS SWITCHING TO BURN COAL INSTEAD OF GAS.",
+      "created_at": "2022-10-04T09:13:18+00:00",
+      "engagement": {
+        "favorite_count": 2481,
+        "reply_count": 160,
+        "retweet_count": 448,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1577225337418792961",
+        "conversation_id": "1577225337418792961",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1402997166637867009",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "THE ACCEPTANCE OF BITCOIN AS LEGAL TENDER BY EL SALVADOR POSES A RANGE OF MACROECONOMIC, GEOPOLITICAL, AND LEGAL PROBLEMS, ACCORDING TO THE IMF.",
+      "created_at": "2021-06-10T14:32:45+00:00",
+      "engagement": {
+        "favorite_count": 2447,
+        "reply_count": 583,
+        "retweet_count": 365,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1402997166637867009",
+        "conversation_id": "1402997166637867009",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1538948444332630019",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "FED'S BULLARD: WE DON'T HAVE AS FAR TO GO ON QT AS IT MIGHT SEEM.",
+      "created_at": "2022-06-20T18:14:36+00:00",
+      "engagement": {
+        "favorite_count": 2500,
+        "reply_count": 220,
+        "retweet_count": 368,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1538948444332630019",
+        "conversation_id": "1538948444332630019",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1580275098589667328",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "FRANCE’S PRESIDENT MACRON: BY JANUARY, I WANT 45 FRENCH NUCLEAR REACTORS TO BE OPERATIONAL.",
+      "created_at": "2022-10-12T19:11:58+00:00",
+      "engagement": {
+        "favorite_count": 2501,
+        "reply_count": 107,
+        "retweet_count": 275,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1580275098589667328",
+        "conversation_id": "1580275098589667328",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1518975223504285699",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "DEUTSCHE BANK SEES 5%-6% FED TARGET RATE AND A DEEP US RECESSION.",
+      "created_at": "2022-04-26T15:28:09+00:00",
+      "engagement": {
+        "favorite_count": 2447,
+        "reply_count": 136,
+        "retweet_count": 508,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1518975223504285699",
+        "conversation_id": "1518975223504285699",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1872758627934871565",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "US TREASURY SECRETARY YELLEN: THE TREASURY EXPECTS TO REACH NEW LIMIT BETWEEN JANUARY 14 AND JANUARY 23, AT WHICH TIME IT WILL BE NECESSARY FOR TREASURY TO START TAKING EXTRAORDINARY MEASURES.",
+      "created_at": "2024-12-27T21:37:05+00:00",
+      "engagement": {
+        "favorite_count": 2508,
+        "reply_count": 280,
+        "retweet_count": 573,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1872758627934871565",
+        "conversation_id": "1872758627934871565",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1595725679030665218",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "BEIJING IS GOING BACK INTO LOCK DOWN — CGTN",
+      "created_at": "2022-11-24T10:27:03+00:00",
+      "engagement": {
+        "favorite_count": 2390,
+        "reply_count": 140,
+        "retweet_count": 511,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1595725679030665218",
+        "conversation_id": "1595725679030665218",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1636817207064768512",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "IN A NEW STUDY, ECONOMISTS FOUND 186 BANKS THAT MAY BE PRONE TO SIMILAR RISKS AS SVB - WSJ CITING ECONOMISTS.",
+      "created_at": "2023-03-17T19:50:07+00:00",
+      "engagement": {
+        "favorite_count": 2400,
+        "reply_count": 145,
+        "retweet_count": 806,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1636817207064768512",
+        "conversation_id": "1636817207064768512",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1579838329872592903",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "THE IMF WARNS OF AN INCREASED RISK OF RAPID, DISORDERLY REPRICING IN FINANCIAL MARKETS, WHICH IS EXACERBATED BY EXISTING VULNERABILITIES AND A LACK OF LIQUIDITY.",
+      "created_at": "2022-10-11T14:16:24+00:00",
+      "engagement": {
+        "favorite_count": 2330,
+        "reply_count": 120,
+        "retweet_count": 570,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1579838329872592903",
+        "conversation_id": "1579838329872592903",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1579866689176752131",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "THE SAUDIS DISMISSED THE US REQUEST BECAUSE THEY BELIEVED IT WAS RELATED TO THE MIDTERM ELECTIONS — WSJ CITING SOURCES.",
+      "created_at": "2022-10-11T16:09:05+00:00",
+      "engagement": {
+        "favorite_count": 2345,
+        "reply_count": 102,
+        "retweet_count": 292,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1579866689176752131",
+        "conversation_id": "1579866689176752131",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1923481179392458953",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "🔴 ⚠️ BREAKING: Moody's: United States ratings cut to Aa1 from AAA.",
+      "created_at": "2025-05-16T20:50:24+00:00",
+      "engagement": {
+        "favorite_count": 2464,
+        "reply_count": 179,
+        "retweet_count": 490,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1923481179392458953",
+        "conversation_id": "1923481179392458953",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1585656773146546177",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "PUTIN: WE ARE READY TO RESTART DISCUSSIONS WITH THE US ON STRATEGIC STABILITY.",
+      "created_at": "2022-10-27T15:36:49+00:00",
+      "engagement": {
+        "favorite_count": 2298,
+        "reply_count": 82,
+        "retweet_count": 286,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1585656773146546177",
+        "conversation_id": "1585656773146546177",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1578079950443249669",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "FED'S EVANS: RATE HIKES OF 125 BASIS POINTS ARE EXPECTED OVER THE NEXT TWO MEETINGS.",
+      "created_at": "2022-10-06T17:49:14+00:00",
+      "engagement": {
+        "favorite_count": 2262,
+        "reply_count": 142,
+        "retweet_count": 391,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1578079950443249669",
+        "conversation_id": "1578079950443249669",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1583487798115373056",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "FED'S DALY: WE WILL PERFORM A STEP-DOWN, BUT NOT A PAUSE, TO 50 OR 25 BPS INCREMENTS.",
+      "created_at": "2022-10-21T15:58:05+00:00",
+      "engagement": {
+        "favorite_count": 2305,
+        "reply_count": 123,
+        "retweet_count": 392,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1583487798115373056",
+        "conversation_id": "1583487798115373056",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1584884377867243522",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "SAUDI ENERGY MINISTER ABDULAZIZ: PEOPLE ARE DEPLETING THEIR EMERGENCY STOCKS AND USING THEM TO MANIPULATE THE MARKET WHEN THEIR ORIGINAL PURPOSE WAS TO ALLEVIATE SUPPLY SHORTAGES.",
+      "created_at": "2022-10-25T12:27:36+00:00",
+      "engagement": {
+        "favorite_count": 2255,
+        "reply_count": 109,
+        "retweet_count": 415,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1584884377867243522",
+        "conversation_id": "1584884377867243522",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1566671865355157505",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "TAIWAN IS TO LET PEOPLE FROM THE US, CANADA, AUSTRALIA AND NEW ZEALAND ENTER VISA-FREE.",
+      "created_at": "2022-09-05T06:17:34+00:00",
+      "engagement": {
+        "favorite_count": 2188,
+        "reply_count": 126,
+        "retweet_count": 201,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1566671865355157505",
+        "conversation_id": "1566671865355157505",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1509793553257484296",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "RUSSIA SUSPENDS GAS FLOWS TO GERMANY THROUGH THE YAMAL-EUROPE PIPELINE - GASCADE",
+      "created_at": "2022-04-01T07:23:28+00:00",
+      "engagement": {
+        "favorite_count": 2097,
+        "reply_count": 70,
+        "retweet_count": 620,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1509793553257484296",
+        "conversation_id": "1509793553257484296",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1438120551931916288",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "RAY DALIO: I HAVE SOME MONEY IN BITCOIN - CNBC. $BTC",
+      "created_at": "2021-09-15T12:40:33+00:00",
+      "engagement": {
+        "favorite_count": 2183,
+        "reply_count": 65,
+        "retweet_count": 182,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1438120551931916288",
+        "conversation_id": "1438120551931916288",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1592699739711086592",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "BIDEN: BASED ON THE TRAJECTORY, IT IS UNLIKELY THAT THE MISSILE FIRED FROM RUSSIA",
+      "created_at": "2022-11-16T02:03:03+00:00",
+      "engagement": {
+        "favorite_count": 2077,
+        "reply_count": 154,
+        "retweet_count": 330,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1592699739711086592",
+        "conversation_id": "1592699739711086592",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1583489992009338880",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "FED'S DALY: IT IS IMPORTANT THAT WE SLOW OUR RATE HIKES.",
+      "created_at": "2022-10-21T16:06:48+00:00",
+      "engagement": {
+        "favorite_count": 2040,
+        "reply_count": 126,
+        "retweet_count": 335,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1583489992009338880",
+        "conversation_id": "1583489992009338880",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1603710104955748354",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "CHINA’S PRESIDENT XI: HOUSING IN CHINA IS FOR LIVING, NOT SPECULATION.",
+      "created_at": "2022-12-16T11:14:19+00:00",
+      "engagement": {
+        "favorite_count": 2032,
+        "reply_count": 131,
+        "retweet_count": 256,
+        "quote_count": 107
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1603710104955748354",
+        "conversation_id": "1603710104955748354",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1637537913712910336",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "FED'S POWELL &amp; US TREASURY SECRETARY YELLEN: THE US BANKING SYSTEM'S CAPITAL AND LIQUIDITY POSITIONS ARE ROBUST, AND THE US FINANCIAL SYSTEM IS RESILIENT - JOINT STATEMENT",
+      "created_at": "2023-03-19T19:33:57+00:00",
+      "engagement": {
+        "favorite_count": 2049,
+        "reply_count": 713,
+        "retweet_count": 358,
+        "quote_count": 545
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1637537913712910336",
+        "conversation_id": "1637537913712910336",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1591916933300961280",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "FED'S WALLER: WE'RE THINKING ABOUT HIKING BY 50BPS AT THE NEXT MEETING.",
+      "created_at": "2022-11-13T22:12:27+00:00",
+      "engagement": {
+        "favorite_count": 2043,
+        "reply_count": 134,
+        "retweet_count": 311,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1591916933300961280",
+        "conversation_id": "1591916933300961280",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1593616724619689985",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "FED'S KASHKARI: THE ENTIRE CONCEPT OF CRYPTO IS NONSENSE.",
+      "created_at": "2022-11-18T14:46:49+00:00",
+      "engagement": {
+        "favorite_count": 1960,
+        "reply_count": 348,
+        "retweet_count": 246,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1593616724619689985",
+        "conversation_id": "1593616724619689985",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1937183071356571785",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "US Jets scrambling over Saudi Arabia",
+      "created_at": "2025-06-23T16:16:49+00:00",
+      "engagement": {
+        "favorite_count": 2127,
+        "reply_count": 21,
+        "retweet_count": 228,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1937183071356571785",
+        "conversation_id": "1937183071356571785",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1637973394212679681",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "IF THE SITUATION WORSENS, THE US IS LOOKING INTO WAYS TO GUARANTEE ALL BANK DEPOSITS.",
+      "created_at": "2023-03-21T00:24:23+00:00",
+      "engagement": {
+        "favorite_count": 2027,
+        "reply_count": 236,
+        "retweet_count": 401,
+        "quote_count": 245
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1637973394212679681",
+        "conversation_id": "1637973394212679681",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1584567273569886212",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "US TREASURY SECRETARY YELLEN: WE COULD FACE FINANCIAL STABILITY RISKS.",
+      "created_at": "2022-10-24T15:27:32+00:00",
+      "engagement": {
+        "favorite_count": 1965,
+        "reply_count": 191,
+        "retweet_count": 359,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1584567273569886212",
+        "conversation_id": "1584567273569886212",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1636816950490718208",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "ECONOMISTS DISCOVER THAT DOZENS OF BANKS MAY FACE RISKS SIMILAR TO SILICON VALLEY BANK - WSJ.",
+      "created_at": "2023-03-17T19:49:06+00:00",
+      "engagement": {
+        "favorite_count": 1992,
+        "reply_count": 172,
+        "retweet_count": 462,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1636816950490718208",
+        "conversation_id": "1636816950490718208",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1575499400205705219",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "BLACKROCK HAS THREATENED TO HALT TRADING IN THE TUMULTUOUS UK MARKET - FT.",
+      "created_at": "2022-09-29T14:55:03+00:00",
+      "engagement": {
+        "favorite_count": 1958,
+        "reply_count": 89,
+        "retweet_count": 394,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1575499400205705219",
+        "conversation_id": "1575499400205705219",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1637531028926480384",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "CREDIT SUISSE: MERGER WILL BE DONE WITHOUT THE APPROVAL OF SHAREHOLDERS.",
+      "created_at": "2023-03-19T19:06:35+00:00",
+      "engagement": {
+        "favorite_count": 1978,
+        "reply_count": 186,
+        "retweet_count": 415,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1637531028926480384",
+        "conversation_id": "1637531028926480384",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1584912189349138432",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "PUTIN: WE NEED TO MAKE DECISIONS ABOUT A SPECIAL MILITARY OPERATION IN UKRAINE AS SOON AS POSSIBLE.",
+      "created_at": "2022-10-25T14:18:06+00:00",
+      "engagement": {
+        "favorite_count": 1916,
+        "reply_count": 93,
+        "retweet_count": 262,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1584912189349138432",
+        "conversation_id": "1584912189349138432",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1637098974355095552",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "⚠️ BREAKING: UBS AND REGULATORS RUSH TO CLOSE CREDIT SUISSE DEAL SATURDAY EVENING - FT.",
+      "created_at": "2023-03-18T14:29:45+00:00",
+      "engagement": {
+        "favorite_count": 1932,
+        "reply_count": 62,
+        "retweet_count": 428,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1637098974355095552",
+        "conversation_id": "1637098974355095552",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1638435402829709313",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "⚠️ BREAKING: UK CPI YOY ACTUAL 10.4% (FORECAST 9.9%, PREVIOUS 10.1%) $MACRO",
+      "created_at": "2023-03-22T07:00:15+00:00",
+      "engagement": {
+        "favorite_count": 1926,
+        "reply_count": 95,
+        "retweet_count": 379,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1638435402829709313",
+        "conversation_id": "1638435402829709313",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1571640504147648514",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "BIDEN: IN THE CASE OF A CHINESE INVASION, THE AMERICAN MILITARY WOULD PROTECT TAIWAN.",
+      "created_at": "2022-09-18T23:21:10+00:00",
+      "engagement": {
+        "favorite_count": 1904,
+        "reply_count": 226,
+        "retweet_count": 327,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1571640504147648514",
+        "conversation_id": "1571640504147648514",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1579930869045014529",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "US TREASURY SECRETARY YELLEN: I'M NOT SEEING ANYTHING IN MARKETS THAT CAUSES ME TO BE CONCERNED.",
+      "created_at": "2022-10-11T20:24:07+00:00",
+      "engagement": {
+        "favorite_count": 1918,
+        "reply_count": 496,
+        "retweet_count": 215,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1579930869045014529",
+        "conversation_id": "1579930869045014529",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1880368259285024928",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "US TREASURY SECRETARY YELLEN: THE TREASURY WILL BEGIN USING EXTRAORDINARY MEASURES ON JANUARY 21.",
+      "created_at": "2025-01-17T21:35:03+00:00",
+      "engagement": {
+        "favorite_count": 2016,
+        "reply_count": 176,
+        "retweet_count": 333,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1880368259285024928",
+        "conversation_id": "1880368259285024928",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1580297346520207360",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "US TREASURY SECRETARY YELLEN: I'M CONCERNED ABOUT THE LOSS OF ADEQUATE LIQUIDITY IN TREASURIES.",
+      "created_at": "2022-10-12T20:40:22+00:00",
+      "engagement": {
+        "favorite_count": 1914,
+        "reply_count": 170,
+        "retweet_count": 319,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1580297346520207360",
+        "conversation_id": "1580297346520207360",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1587395662257295362",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "KREMLIN ON NORD STREAM PIPELINES: WE BELIEVE BRITAIN WAS INVOLVED IN THE 'TERRORIST ATTACK', WE WILL CONSIDER 'FURTHER STEPS' IN RESPONSE.",
+      "created_at": "2022-11-01T10:46:32+00:00",
+      "engagement": {
+        "favorite_count": 1846,
+        "reply_count": 87,
+        "retweet_count": 334,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1587395662257295362",
+        "conversation_id": "1587395662257295362",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1503728232838881280",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "SAUDI ARABIA IS CONSIDERING ACCEPTING YUAN INSTEAD OF DOLLARS FOR CHINESE OIL PURCHASES. - WSJ.",
+      "created_at": "2022-03-15T13:42:03+00:00",
+      "engagement": {
+        "favorite_count": 1834,
+        "reply_count": 175,
+        "retweet_count": 417,
+        "quote_count": 215
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1503728232838881280",
+        "conversation_id": "1503728232838881280",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1618976043762651137",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "THE US MONEY SUPPLY, TREASURY CURVE AND LEADING ECONOMIC INDEX ARE ALL SIGNALS THAT A \"HARD LANDING WILL OCCUR IN 2023\" - BOFA.",
+      "created_at": "2023-01-27T14:15:42+00:00",
+      "engagement": {
+        "favorite_count": 1909,
+        "reply_count": 83,
+        "retweet_count": 437,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1618976043762651137",
+        "conversation_id": "1618976043762651137",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1588083812734566401",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "ECB'S PRESIDENT LAGARDE: A RECESSION WON'T BE SUFFICIENT TO SETTLE INFLATION.",
+      "created_at": "2022-11-03T08:21:00+00:00",
+      "engagement": {
+        "favorite_count": 1829,
+        "reply_count": 216,
+        "retweet_count": 426,
+        "quote_count": 281
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1588083812734566401",
+        "conversation_id": "1588083812734566401",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1640811093600751618",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "BIDEN: THE BANKING CRISIS IS NOT OVER YET.",
+      "created_at": "2023-03-28T20:20:24+00:00",
+      "engagement": {
+        "favorite_count": 1835,
+        "reply_count": 177,
+        "retweet_count": 418,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1640811093600751618",
+        "conversation_id": "1640811093600751618",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1624098894794698753",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "FED'S WALLER TO CRYPTO ASSET BUYERS: DONT BE SURPRISED IF THE VALUE FALLS TO ZERO, AND DON\"T EXPECT TAXPAYERS TO COVER LOSSES.",
+      "created_at": "2023-02-10T17:32:05+00:00",
+      "engagement": {
+        "favorite_count": 1792,
+        "reply_count": 217,
+        "retweet_count": 305,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1624098894794698753",
+        "conversation_id": "1624098894794698753",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1435274363843096582",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "THE WORLD BANK REITERATES THAT IT CANNOT SUPPORT EL SALVADOR WITH BITCOIN DUE TO ENVIRONMENTAL AND TRANSPARENCY ISSUES.",
+      "created_at": "2021-09-07T16:10:49+00:00",
+      "engagement": {
+        "favorite_count": 1751,
+        "reply_count": 557,
+        "retweet_count": 308,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1435274363843096582",
+        "conversation_id": "1435274363843096582",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1593332154544533505",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "GENESIS CRYPTOCURRENCY LENDER REQUESTED A $1 BILLION EMERGENCY LOAN BY MONDAY - WSJ.",
+      "created_at": "2022-11-17T19:56:02+00:00",
+      "engagement": {
+        "favorite_count": 1784,
+        "reply_count": 134,
+        "retweet_count": 405,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1593332154544533505",
+        "conversation_id": "1593332154544533505",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1711351789130301907",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "🔴 US TREASURY SECRETARY YELLEN: THE US IS LIKELY TO TAKE STEPS TO ENFORCE $60/BARREL OIL - WSJ.",
+      "created_at": "2023-10-09T12:03:56+00:00",
+      "engagement": {
+        "favorite_count": 1778,
+        "reply_count": 434,
+        "retweet_count": 384,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1711351789130301907",
+        "conversation_id": "1711351789130301907",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1637822369413693443",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "JPMORGAN: THE DECISION TO WRITE DOWN CREDIT SUISSE AT1 COULD LEAD TO CONTAGION FOR WHOLESALE FUNDING COSTS ACROSS THE INDUSTRY.",
+      "created_at": "2023-03-20T14:24:16+00:00",
+      "engagement": {
+        "favorite_count": 1796,
+        "reply_count": 55,
+        "retweet_count": 370,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1637822369413693443",
+        "conversation_id": "1637822369413693443",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1909132899162415251",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "JAPAN PM Ishiba: We cannot sacrifice domestic industries to bring 'souvenir' to US President Trump",
+      "created_at": "2025-04-07T06:35:27+00:00",
+      "engagement": {
+        "favorite_count": 1884,
+        "reply_count": 29,
+        "retweet_count": 300,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1909132899162415251",
+        "conversation_id": "1909132899162415251",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1671563726846140419",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "FED'S POWELL: CRYPTO APPEARS TO HAVE STAYING POWER AS AN ASSET CLASS.",
+      "created_at": "2023-06-21T17:00:23+00:00",
+      "engagement": {
+        "favorite_count": 1773,
+        "reply_count": 54,
+        "retweet_count": 372,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1671563726846140419",
+        "conversation_id": "1671563726846140419",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1644156139846631424",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "JP MORGAN CEO DIMON ON THE DEBT CEILING: AS LONG AS I AM ALIVE, THE US WILL NOT DEFAULT.",
+      "created_at": "2023-04-07T01:52:25+00:00",
+      "engagement": {
+        "favorite_count": 1763,
+        "reply_count": 352,
+        "retweet_count": 189,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1644156139846631424",
+        "conversation_id": "1644156139846631424",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1587476224238051330",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "⚠️ BREAKING: WH ECONOMIC ADVISER BERNSTEIN: BIDEN HAS BACKED THE FED'S POLICY SHIFT.",
+      "created_at": "2022-11-01T16:06:40+00:00",
+      "engagement": {
+        "favorite_count": 1721,
+        "reply_count": 159,
+        "retweet_count": 248,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1587476224238051330",
+        "conversation_id": "1587476224238051330",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1599811739532525571",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "MOSCOW CONFIRMS UKRAINE AIRFIELD ATTACKS DEEP INSIDE RUSSIA",
+      "created_at": "2022-12-05T17:03:36+00:00",
+      "engagement": {
+        "favorite_count": 1727,
+        "reply_count": 87,
+        "retweet_count": 215,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1599811739532525571",
+        "conversation_id": "1599811739532525571",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1592598364176031746",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "POLISH REPORTER ON BLASTS TONIGHT: MY SOURCES IN THE SERVICES SAY THAT WHAT HIT PRZEWOWO IS MOST LIKELY THE REMAINS OF A [RUSSIAN] ROCKET SHOT DOWN BY THE ARMED FORCES OF UKRAINE - RTE NEWS REPORTER TWEETS.",
+      "created_at": "2022-11-15T19:20:13+00:00",
+      "engagement": {
+        "favorite_count": 1699,
+        "reply_count": 72,
+        "retweet_count": 519,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1592598364176031746",
+        "conversation_id": "1592598364176031746",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1581339317405855744",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "FED'S BULLARD: THE UNITED STATES HAS A SERIOUS INFLATION ISSUE.",
+      "created_at": "2022-10-15T17:40:47+00:00",
+      "engagement": {
+        "favorite_count": 1648,
+        "reply_count": 210,
+        "retweet_count": 226,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1581339317405855744",
+        "conversation_id": "1581339317405855744",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1582893345655128064",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "FED'S EVANS: THE FED IS FACING A DIFFICULT MESSAGING PROBLEM AS IT NEARS A DECISION TO HALT THE PACE OF RATE INCREASES.",
+      "created_at": "2022-10-20T00:35:56+00:00",
+      "engagement": {
+        "favorite_count": 1706,
+        "reply_count": 89,
+        "retweet_count": 303,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1582893345655128064",
+        "conversation_id": "1582893345655128064",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1580209000028966913",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "FED'S KASHKARI: I REPEAT THAT THE FED IS A LONG WAY FROM STOPPING RATE HIKES.",
+      "created_at": "2022-10-12T14:49:19+00:00",
+      "engagement": {
+        "favorite_count": 1662,
+        "reply_count": 100,
+        "retweet_count": 258,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1580209000028966913",
+        "conversation_id": "1580209000028966913",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1498025560848711686",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "SWIFT BAN MEANS THE FED MIGHT NEED TO BE READY WITH DOLLARS, ACCORDING TO A CREDIT SUISSE STRATEGIST.",
+      "created_at": "2022-02-27T20:01:40+00:00",
+      "engagement": {
+        "favorite_count": 1634,
+        "reply_count": 81,
+        "retweet_count": 236,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1498025560848711686",
+        "conversation_id": "1498025560848711686",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1541720556575260676",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "BLACKROCK VICE CHAIRMAN HILDEBRAND: WE'VE REACHED PEAK INFLATION.",
+      "created_at": "2022-06-28T09:49:59+00:00",
+      "engagement": {
+        "favorite_count": 1646,
+        "reply_count": 238,
+        "retweet_count": 281,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1541720556575260676",
+        "conversation_id": "1541720556575260676",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1583091836326793216",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "BORIS JOHNSON IS EXPECTED TO RUN IN THE CONSERVATIVE LEADERSHIP ELECTION TO SUCCEED LIZ TRUSS AS PRIME MINISTER - TIMES.",
+      "created_at": "2022-10-20T13:44:40+00:00",
+      "engagement": {
+        "favorite_count": 1672,
+        "reply_count": 118,
+        "retweet_count": 225,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1583091836326793216",
+        "conversation_id": "1583091836326793216",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1590367610020954117",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "AFTER REVIEWING THE CRYPTO EXCHANGE'S BOOKS, BINANCE IS HIGHLY UNLIKELY TO CARRY OUT ITS PROPOSED RESCUE OF FTX - COINDESK.",
+      "created_at": "2022-11-09T15:36:00+00:00",
+      "engagement": {
+        "favorite_count": 1643,
+        "reply_count": 81,
+        "retweet_count": 323,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1590367610020954117",
+        "conversation_id": "1590367610020954117",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    },
+    {
+      "tweet_id": "1577774975498461190",
+      "author_username": "financialjuice",
+      "author_id": "381696140",
+      "text": "THE US INTENDS TO EASE SANCTIONS AGAINST VENEZUELA, ALLOWING CHEVRON TO RESUME OIL PRODUCTION - WSJ.",
+      "created_at": "2022-10-05T21:37:22+00:00",
+      "engagement": {
+        "favorite_count": 1620,
+        "reply_count": 145,
+        "retweet_count": 263,
+        "quote_count": 0
+      },
+      "source_engine": "syndication",
+      "raw_data": {
+        "source": "syndication",
+        "permalink": "/financialjuice/status/1577774975498461190",
+        "conversation_id": "1577774975498461190",
+        "is_reply": false,
+        "is_quote": false,
+        "reply_to_screen_name": null,
+        "lang": "en",
+        "user": {
+          "name": "FinancialJuice",
+          "screen_name": "financialjuice",
+          "followers_count": 729840,
+          "verified": false,
+          "is_blue_verified": true
+        }
+      }
+    }
+  ]
+}

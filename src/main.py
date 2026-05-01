@@ -3,7 +3,7 @@ X-v2 Collector — standalone service entry point.
 
 Runs two asyncio tasks concurrently:
 1. FastAPI server on port 8001 for health/metrics
-2. The scraping loop (twikit → fallback playwright)
+2. The scraping loop (syndication → twikit → playwright fallback)
 
 Publishes tweets to Redis Stream 'tweets:raw' with schema compatible
 with the existing v1 collector.
@@ -24,6 +24,7 @@ from src.core.rate_limiter import RateLimiter
 from src.core.redis_publisher import RedisPublisher
 from src.engine.twikit_engine import TwikitEngine
 from src.engine.playwright_engine import PlaywrightEngine
+from src.engine.syndication_engine import SyndicationEngine
 from src.api.health import router as health_router, update_state
 
 # Configure structural logging
@@ -52,6 +53,14 @@ app.include_router(health_router, prefix="", tags=["health"])
 # Collector loop
 # ============================================================================
 class CollectorApp:
+    """Main collector orchestrator.
+
+    Engine selection priority:
+    1. Twikit (authenticated, if credentials present)
+    2. Syndication (no auth, ~100 tweets, fast)
+    3. Playwright (auth or anonymous, slow, heavy)
+    """
+
     def __init__(self):
         self.running = False
         self.publisher = RedisPublisher()
@@ -61,13 +70,22 @@ class CollectorApp:
             max_seconds=settings.poll_interval_max,
         )
 
-        # Engines
-        self.engine: TwikitEngine | PlaywrightEngine | None = None
-        self.engine_name = "twikit"
+        # Engine state
+        self.engine = None
+        self.engine_name: str = ""
         self.failed_engines: set = set()
 
+        # Determine if we have credentials
+        self.has_credentials = bool(
+            settings.twitter_username and settings.twitter_password
+        )
+
     async def run(self):
-        logger.info("collector_starting", accounts=settings.x_accounts_to_track)
+        logger.info(
+            "collector_starting",
+            accounts=settings.x_accounts_to_track,
+            has_credentials=self.has_credentials,
+        )
         self.running = True
 
         # Connect to Redis
@@ -79,8 +97,18 @@ class CollectorApp:
             update_state("healthy", False)
             return
 
-        # Initialize primary engine
-        if not await self._start_engine("twikit"):
+        # Initialize engine (try twikit first if creds, else syndication)
+        engine_order = self._get_engine_order()
+        logger.info("engine_order", engines=engine_order)
+
+        started = False
+        for name in engine_order:
+            if await self._start_engine(name):
+                started = True
+                break
+
+        if not started:
+            logger.critical("no_engine_available")
             update_state("healthy", False)
             return
 
@@ -112,8 +140,14 @@ class CollectorApp:
         logger.info("collector_shutdown_complete")
 
     # ------------------------------------------------------------------
-    # Engine lifecycle
+    # Engine management
     # ------------------------------------------------------------------
+
+    def _get_engine_order(self) -> list:
+        """Return engine try-order based on available credentials."""
+        if self.has_credentials:
+            return ["twikit", "syndication", "playwright"]
+        return ["syndication", "twikit", "playwright"]
 
     async def _start_engine(self, name: str) -> bool:
         logger.info("starting_engine", name=name)
@@ -121,7 +155,9 @@ class CollectorApp:
             if name == "twikit":
                 self.engine = TwikitEngine()
             elif name == "playwright":
-                self.engine = PlaywrightEngine(headless=True)
+                self.engine = PlaywrightEngine(headless=True, anonymous=not self.has_credentials)
+            elif name == "syndication":
+                self.engine = SyndicationEngine()
             else:
                 logger.error("unknown_engine", name=name)
                 return False
@@ -139,10 +175,18 @@ class CollectorApp:
             self.engine = None
             return False
 
+    async def _maybe_switch_engine(self, from_name: str, reason: str) -> bool:
+        """Try next engine in priority order."""
+        order = self._get_engine_order()
+        remaining = [e for e in order if e != from_name and e not in self.failed_engines]
+        logger.warning("engine_switch_attempt", from_=from_name, reason=reason, candidates=remaining)
+        for candidate in remaining:
+            if await self._switch_engine(candidate):
+                return True
+        logger.critical("all_engines_exhausted")
+        return False
+
     async def _switch_engine(self, to: str) -> bool:
-        if to in self.failed_engines:
-            logger.error("engine_already_failed", name=to)
-            return False
         if self.engine:
             try:
                 await self.engine.stop()
@@ -166,7 +210,12 @@ class CollectorApp:
                     if self.engine is None:
                         raise RuntimeError("No engine available")
 
-                    tweets = await self.engine.fetch_timeline(account)
+                    # Syndication engine is sync; others are async
+                    if self.engine_name == "syndication":
+                        tweets = await self.engine.fetch_timeline_async(account)
+                    else:
+                        tweets = await self.engine.fetch_timeline(account)
+
                     self.rate_limiter.mark_fetched(account)
                     update_state("last_fetch", datetime.now(timezone.utc).isoformat())
 
@@ -177,8 +226,12 @@ class CollectorApp:
                             self.deduplicator.add(account, tweet.tweet_id)
                             new_count += 1
 
-                    update_state("tweets_total", _state_val("tweets_total", 0) + new_count)
-                    update_state("tweets_this_hour", _state_val("tweets_this_hour", 0) + new_count)
+                    update_state(
+                        "tweets_total", _state_val("tweets_total", 0) + new_count
+                    )
+                    update_state(
+                        "tweets_this_hour", _state_val("tweets_this_hour", 0) + new_count
+                    )
                     update_state("healthy", True)
                     logger.info(
                         "collection_cycle_ok",
@@ -191,30 +244,26 @@ class CollectorApp:
                 except Exception as exc:
                     update_state("errors_total", _state_val("errors_total", 0) + 1)
                     update_state("healthy", False)
+                    failures = getattr(self.engine, "failure_count", 0)
                     logger.error(
                         "collection_cycle_error",
                         account=account,
                         error=str(exc),
                         engine=self.engine_name,
-                        failures=getattr(self.engine, "failure_count", 0),
+                        failures=failures,
                     )
 
-                    # Decide if fallback is needed
-                    if self.engine_name == "twikit":
-                        failures = getattr(self.engine, "failure_count", 0)
-                        if failures >= settings.twikit_failure_threshold:
-                            logger.warning("twikit_threshold_reached_switching_to_playwright")
-                            if await self._switch_engine("playwright"):
-                                update_state("current_engine", "playwright")
-                            else:
-                                logger.critical("no_engine_available")
-                                self.running = False
-                                break
+                    # Decide if engine switch is needed
+                    if self.engine_name == "twikit" and failures >= settings.twikit_failure_threshold:
+                        await self._maybe_switch_engine("twikit", "too_many_failures")
 
-                    # If playwright fails too, back off
+                    elif self.engine_name == "syndication":
+                        # Syndication doesn't have pagination; limited to ~100 tweets
+                        # If it fails we try others.
+                        await self._maybe_switch_engine("syndication", str(exc))
+
                     elif self.engine_name == "playwright":
-                        logger.warning("playwright_error_backing_off_5min")
-                        await asyncio.sleep(300)
+                        await asyncio.sleep(300)  # Back off 5 min
 
     # ------------------------------------------------------------------
     # Task runner (FastAPI + collector loop)
