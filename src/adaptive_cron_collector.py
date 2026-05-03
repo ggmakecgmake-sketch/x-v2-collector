@@ -312,8 +312,8 @@ def strategy_syndication(screen_name: str, cookies: dict[str, str]) -> list[Twee
         t = entry.get("content", {}).get("tweet", {})
         if not t:
             continue
-        tid = str(t.get("id", ""))
-        if not tid:
+        tid = str(t.get("id_str", "") or t.get("id", ""))
+        if not tid or tid == "0":
             continue
         u = t.get("user", {})
         tweets.append(Tweet(
